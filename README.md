@@ -1,1 +1,1 @@
-#Fully Functional QR Code Geneartor 
+# Fully Functional QR Code Geneartor 
